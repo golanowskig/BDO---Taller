@@ -4,12 +4,12 @@
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="(local):curso">
-          <Created>2025-04-02T08:55:35.1840037+02:00</Created>
+          <Created>2025-04-02T12:37:32.7297724+02:00</Created>
           <Type>SQL</Type>
           <Server>(local)</Server>
           <UserName>curso</UserName>
           <Authentication>SQL</Authentication>
-          <InitialDB />
+          <InitialDB>TallerDB</InitialDB>
           <LoginTimeout>30</LoginTimeout>
           <TrustServerCertificate>True</TrustServerCertificate>
           <HostNameInServerCertificate />
