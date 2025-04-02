@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Taller Mecánico", "Taller Mecánico\Taller Mecánico.ssmssqlproj", "{275E2E22-C651-4CD3-8ACB-1058F22A6EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{275E2E22-C651-4CD3-8ACB-1058F22A6EAE}.Default|Default.ActiveCfg = Default
+		{7E149C93-515E-4F2D-9359-9E701F4877CF}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BF50F48-6690-44A5-BBA4-C29833316E78}
+	EndGlobalSection
+EndGlobal
